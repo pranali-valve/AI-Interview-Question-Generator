@@ -6,7 +6,7 @@ import streamlit as st
 st.set_page_config(
     page_title="AI Interview Question Generator",
     page_icon="🎯",
-    layout="wide",
+    layout="wide",   
 )
 
 
@@ -35,7 +35,7 @@ with col1:
     st.write(
         "Learn how to answer each question with clear explanations "
         "and practical examples."
-    )
+    ) 
 
 with col2:
     st.markdown("### 🎓 Difficulty Levels")
