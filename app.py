@@ -136,4 +136,4 @@ if result:
             for follow_up in question["follow_up_questions"]:
                 st.markdown(f"- {follow_up}")
 
-    st.success("Your interview preparation set is ready!")
+    st.success("Your interview preparation set is ready!")      
